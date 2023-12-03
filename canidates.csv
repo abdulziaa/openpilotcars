@@ -1,0 +1,184 @@
+Make,Model,Model Name,Model Years
+Audi,A3 2014-19,A3,2014-19
+Audi,A3 Sportback e-tron 2017-18,A3,2017-18
+Audi,Q2 2018,Q2,2018
+Audi,Q3 2019-23,Q3,2019-23
+Audi,RS3 2018,RS3,2018
+Audi,S3 2015-17,S3,2015-17
+Chrysler,Pacifica 2017-18,Pacifica ,2017-18
+Chrysler,Pacifica 2019-20,Pacifica ,2019-20
+Chrysler,Pacifica 2021,Pacifica ,2021
+Chrysler,Pacifica Hybrid 2017-18,Pacifica Hybrid ,2017-18
+Chrysler,Pacifica Hybrid 2019-23,Pacifica Hybrid ,2019-23
+Ford,Bronco Sport 2021-22,Bronco Sport ,2021-22
+Ford,Escape 2020-22,Escape ,2020-22
+Ford,Explorer 2020-22,Explorer ,2020-22
+Ford,Focus 2018[<sup>3</sup>](#footnotes),Focus ,2018
+Ford,Kuga 2020-22,Kuga ,2020-22
+Ford,Maverick 2022,Maverick ,2022
+Ford,Maverick 2023,Maverick ,2023
+Genesis,G70 2018-19,G70,2018-19
+Genesis,G70 2020,G70,2020
+Genesis,G80 2017,G80,2017
+Genesis,G80 2018-19,G80,2018-19
+Genesis,G90 2017-18,G90,2017-18
+Genesis,GV60 (Advanced Trim) 2023[<sup>6</sup>](#footnotes),GV60,2023
+Genesis,GV60 (Performance Trim) 2023[<sup>6</sup>](#footnotes),GV60,2023
+Genesis,GV70 (2.5T Trim) 2022-23[<sup>6</sup>](#footnotes),GV70,2022-23
+Genesis,GV70 (3.5T Trim) 2022-23[<sup>6</sup>](#footnotes),GV70,2022-23
+Genesis,GV80 2023[<sup>6</sup>](#footnotes),GV80,2023
+Honda,Civic 2022-23,Civic ,2022-23
+Honda,Civic Hatchback 2022-23,Civic Hatchback ,2022-23
+Honda,HR-V 2023,HR-V ,2023
+Hyundai,Azera 2022,Azera ,2022
+Hyundai,Azera Hybrid 2019,Azera Hybrid ,2019
+Hyundai,Azera Hybrid 2020,Azera Hybrid ,2020
+Hyundai,Custin 2023,Custin ,2023
+Hyundai,Elantra 2017-18,Elantra ,2017-18
+Hyundai,Elantra 2019,Elantra ,2019
+Hyundai,Elantra 2021-23,Elantra ,2021-23
+Hyundai,Elantra GT 2017-19,Elantra GT ,2017-19
+Hyundai,Elantra Hybrid 2021-23,Elantra Hybrid ,2021-23
+Hyundai,Genesis 2015-16,Genesis ,2015-16
+Hyundai,i30 2017-19,i30,2017-19
+Hyundai,Ioniq 5 (with HDA II) 2022-23[<sup>6</sup>](#footnotes),Ioniq 5,2022-23
+Hyundai,Ioniq 5 (without HDA II) 2022-23[<sup>6</sup>](#footnotes),Ioniq 5,2022-23
+Hyundai,Ioniq 6 (with HDA II) 2023[<sup>6</sup>](#footnotes),Ionitq 6,2023
+Hyundai,Ioniq Electric 2019,Ioniq Electric ,2019
+Hyundai,Ioniq Electric 2020,Ioniq Electric ,2020
+Hyundai,Ioniq Hybrid 2017-19,Ioniq Hybrid ,2017-19
+Hyundai,Ioniq Hybrid 2020-22,Ioniq Hybrid ,2020-22
+Hyundai,Ioniq Plug-in Hybrid 2019,Ioniq Plug-in Hybrid ,2019
+Hyundai,Ioniq Plug-in Hybrid 2020-22,Ioniq Plug-in Hybrid ,2020-22
+Hyundai,Kona 2020,Kona ,2020
+Hyundai,Kona Electric 2018-21,Kona Electric ,2018-21
+Hyundai,Kona Electric 2022-23,Kona Electric ,2022-23
+Hyundai,Kona Hybrid 2020,Kona Hybrid ,2020
+Hyundai,Palisade 2020-22,Palisade ,2020-22
+Hyundai,Santa Cruz 2022-23[<sup>6</sup>](#footnotes),Santa Cruz ,2022-23
+Hyundai,Santa Fe 2019-20,Santa Fe ,2019-20
+Hyundai,Santa Fe 2021-23,Santa Fe ,2021-23
+Hyundai,Santa Fe Hybrid 2022-23,Santa Fe Hybrid ,2022-23
+Hyundai,Santa Fe Plug-in Hybrid 2022-23,Santa Fe Plug-in Hybrid ,2022-23
+Hyundai,Sonata 2018-19,Sonata ,2018-19
+Hyundai,Sonata 2020-23,Sonata ,2020-23
+Hyundai,Sonata Hybrid 2020-23,Sonata Hybrid ,2020-23
+Hyundai,Tucson 2021,Tucson ,2021
+Hyundai,Tucson 2022[<sup>6</sup>](#footnotes),Tucson ,2022
+Hyundai,Tucson 2023[<sup>6</sup>](#footnotes),Tucson ,2023
+Hyundai,Tucson Diesel 2019,Tucson Diesel ,2019
+Hyundai,Tucson Hybrid 2022-24[<sup>6</sup>](#footnotes),Tucson Hybrid ,2022-24
+Hyundai,Veloster 2019-20,Veloster ,2019-20
+Jeep,Grand Cherokee 2016-18,Grand Cherokee ,2016-18
+Jeep,Grand Cherokee 2019-21,Grand Cherokee ,2019-21
+Kia,Carnival 2023-24[<sup>6</sup>](#footnotes),Carnival ,2023-24
+Kia,Ceed 2019,Ceed ,2019
+Kia,EV6 (with HDA II) 2022-23[<sup>6</sup>](#footnotes),EV6,2022-23
+Kia,EV6 (without HDA II) 2022-23[<sup>6</sup>](#footnotes),EV6,2022-23
+Kia,Forte 2019-21,Forte ,2019-21
+Kia,Forte 2023,Forte ,2023
+Kia,K5 2021-24,K5,2021-24
+Kia,K5 Hybrid 2020-22,K5,2020-22
+Kia,K8 Hybrid (with HDA II) 2023[<sup>6</sup>](#footnotes),K8 Hybrid,2023
+Kia,Niro EV 2019,Niro EV ,2019
+Kia,Niro EV 2020,Niro EV ,2020
+Kia,Niro EV 2021,Niro EV ,2021
+Kia,Niro EV 2022,Niro EV ,2022
+Kia,Niro EV 2023[<sup>6</sup>](#footnotes),Niro EV ,2023
+Kia,Niro Hybrid 2021-22,Niro Hybrid ,2021-22
+Kia,Niro Hybrid 2023[<sup>6</sup>](#footnotes),Niro Hybrid ,2023
+Kia,Niro Plug-in Hybrid 2018-19,Niro Plug-in Hybrid ,2018-19
+Kia,Niro Plug-in Hybrid 2020,Niro Plug-in Hybrid ,2020
+Kia,Optima 2017,Optima ,2017
+Kia,Optima 2019-20,Optima ,2019-20
+Kia,Optima Hybrid 2019,Optima Hybrid ,2019
+Kia,Seltos 2021,Seltos ,2021
+Kia,Sorento 2018,Sorento ,2018
+Kia,Sorento 2019,Sorento ,2019
+Kia,Sorento 2021-23[<sup>6</sup>](#footnotes),Sorento ,2021-23
+Kia,Sorento Hybrid 2021-23[<sup>6</sup>](#footnotes),Sorento Hybrid ,2021-23
+Kia,Sorento Plug-in Hybrid 2022-23[<sup>6</sup>](#footnotes),Sorento Plug-in Hybrid ,2022-23
+Kia,Sportage 2023[<sup>6</sup>](#footnotes),Sportage ,2023
+Kia,Sportage Hybrid 2023[<sup>6</sup>](#footnotes),Sportage Hybrid ,2023
+Kia,Stinger 2018-20,Stinger ,2018-20
+Kia,Stinger 2022-23,Stinger ,2022-23
+Kia,Telluride 2020-22,Telluride ,2020-22
+Lexus,ES 2019-24,ES ,2019-24
+Lexus,ES Hybrid 2017-18,ES Hybrid ,2017-18
+Lexus,ES Hybrid 2019-23,ES Hybrid ,2019-23
+Lexus,IS 2022-23,IS ,2022-23
+Lexus,NX 2020-21,NX ,2020-21
+Lexus,NX Hybrid 2020-21,NX Hybrid ,2020-21
+Lexus,RX 2020-22,RX ,2020-22
+Lexus,RX Hybrid 2020-22,RX Hybrid ,2020-22
+Lexus,UX Hybrid 2019-23,UX Hybrid ,2019-23
+Lincoln,Aviator 2020-21,Aviator ,2020-21
+MAN,eTGE 2020-23,eTGE ,2020-23
+MAN,TGE 2017-23,TGE ,2017-23
+Mazda,CX-5 2022-24,CX-5,2022-24
+Mazda,CX-9 2021-23,CX-9,2021-23
+Ram,1500 2019-23,1500,2019-23
+SEAT,Ateca 2018,Ateca ,2018
+SEAT,Leon 2014-20,Leon ,2014-20
+Škoda,Fabia 2022-23[<sup>11</sup>](#footnotes),Fabia ,2022-23
+Škoda,"Kamiq 2021-23[<sup>9,11</sup>](#footnotes)",Kamiq ,2021-23
+Škoda,Karoq 2019-23[<sup>11</sup>](#footnotes),Karoq ,2019-23
+Škoda,Kodiaq 2017-23[<sup>11</sup>](#footnotes),Kodiaq ,2017-23
+Škoda,Octavia 2015-19[<sup>11</sup>](#footnotes),Octavia ,2015-19
+Škoda,Octavia RS 2016[<sup>11</sup>](#footnotes),Octavia RS ,2016
+Škoda,Scala 2020-23[<sup>11</sup>](#footnotes),Scala ,2020-23
+Škoda,Superb 2015-22[<sup>11</sup>](#footnotes),Superb ,2015-22
+Toyota,Alphard 2019-20,Alphard ,2019-20
+Toyota,Alphard Hybrid 2021,Alphard Hybrid ,2021
+Toyota,Avalon 2022,Avalon ,2022
+Toyota,Avalon Hybrid 2022,Avalon Hybrid ,2022
+Toyota,Camry 2021-24,Camry ,2021-24
+Toyota,Camry Hybrid 2021-24,Camry Hybrid ,2021-24
+Toyota,Corolla 2020-22,Corolla ,2020-22
+Toyota,Corolla Hatchback 2019-22,Corolla Hatchback ,2019-22
+Toyota,Corolla Hybrid 2020-22,Corolla Hybrid ,2020-22
+Toyota,Highlander 2017-19,Highlander ,2017-19
+Toyota,Highlander 2020-23,Highlander ,2020-23
+Toyota,Highlander Hybrid 2017-19,Highlander Hybrid ,2017-19
+Toyota,Highlander Hybrid 2020-23,Highlander Hybrid ,2020-23
+Toyota,Mirai 2021,Mirai ,2021
+Toyota,Prius 2021-22,Prius ,2021-22
+Toyota,Prius Prime 2021-22,Prius Prime ,2021-22
+Toyota,Prius v 2017,Prius v ,2017
+Toyota,RAV4 2019-21,RAV,2019-21
+Toyota,RAV4 Hybrid 2016,RAV,2016
+Toyota,RAV4 Hybrid 2017-18,RAV,2017-18
+Toyota,RAV4 Hybrid 2019-21,RAV,2019-21
+Toyota,Sienna 2018-20,Sienna ,2018-20
+Volkswagen,Arteon 2018-23,Arteon ,2018-23
+Volkswagen,Arteon eHybrid 2020-23,Arteon eHybrid ,2020-23
+Volkswagen,Arteon R 2020-23,Arteon R ,2020-23
+Volkswagen,Atlas 2018-23,Atlas ,2018-23
+Volkswagen,Atlas Cross Sport 2020-22,Atlas Cross Sport ,2020-22
+Volkswagen,California 2021-23,California ,2021-23
+Volkswagen,Caravelle 2020,Caravelle ,2020
+Volkswagen,CC 2018-22,CC ,2018-22
+Volkswagen,Crafter 2017-23,Crafter ,2017-23
+Volkswagen,e-Crafter 2018-23,e-Crafter ,2018-23
+Volkswagen,e-Golf 2014-20,e-Golf ,2014-20
+Volkswagen,Golf GTD 2015-20,Golf GTD ,2015-20
+Volkswagen,Golf GTE 2015-20,Golf GTE ,2015-20
+Volkswagen,Golf R 2015-19,Golf R ,2015-19
+Volkswagen,Golf SportsVan 2015-20,Golf SportsVan ,2015-20
+Volkswagen,Grand California 2019-23,Grand California ,2019-23
+Volkswagen,Jetta 2018-22,Jetta ,2018-22
+Volkswagen,Jetta GLI 2021-22,Jetta GLI ,2021-22
+Volkswagen,Passat 2015-22[<sup>10</sup>](#footnotes),Passat ,2015-22
+Volkswagen,Passat Alltrack 2015-22,Passat Alltrack ,2015-22
+Volkswagen,Passat GTE 2015-22,Passat GTE ,2015-22
+Volkswagen,Polo 2018-23,Polo ,2018-23
+Volkswagen,Polo GTI 2018-23,Polo GTI ,2018-23
+Volkswagen,T-Cross 2021,T-Cross ,2021
+Volkswagen,T-Roc 2018-22,T-Roc ,2018-22
+Volkswagen,Taos 2022-23,Taos ,2022-23
+Volkswagen,Teramont 2018-22,Teramont ,2018-22
+Volkswagen,Teramont Cross Sport 2021-22,Teramont Cross Sport ,2021-22
+Volkswagen,Teramont X 2021-22,Teramont X ,2021-22
+Volkswagen,Tiguan 2018-23,Tiguan ,2018-23
+Volkswagen,Tiguan eHybrid 2021-23,Tiguan eHybrid ,2021-23
+Volkswagen,Touran 2016-23,Touran ,2016-23
